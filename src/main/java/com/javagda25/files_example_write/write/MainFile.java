@@ -1,4 +1,4 @@
-package com.javagda25.files_example.write;
+package com.javagda25.files_example_write.write;
 
 import java.io.File;
 

@@ -1,6 +1,5 @@
-package com.javagda25.files_example.write;
+package com.javagda25.files_example_write.write;
 
-import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
